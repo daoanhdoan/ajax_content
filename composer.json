@@ -1,0 +1,9 @@
+{
+  "name": "daoanhdoan/ajax_content",
+  "description": "Ajax Content - Load internal paths content via ajax.",
+  "type": "drupal-custom-module",
+  "license":"GPL-2.0",
+  "extra": {
+    "installer-name": "ajax_content"
+  }
+}
